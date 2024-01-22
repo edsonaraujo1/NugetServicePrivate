@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
+  <metadata>
+    <id>Advice.Componentes.eGuardian</id>
+    <version>1.0.0</version>
+    <title>Advice Tecnologia</title>
+    <authors>Advice Tech</authors>
+    <owners>Advice Nugets</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Pacotes Nugets de Aplicação eGuardian Advice Tecnologia
+Conjuntos de DLLs</description>
+    <copyright>Copyright  2021</copyright>
+    <language>pt-BR</language>
+    <tags>eGuardian</tags>
+  </metadata>
+</package>

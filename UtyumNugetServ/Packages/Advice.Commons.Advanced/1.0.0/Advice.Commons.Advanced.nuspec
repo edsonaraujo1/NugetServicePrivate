@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
+  <metadata>
+    <id>Advice.Commons.Advanced</id>
+    <version>1.0.0</version>
+    <title>Nuget Advice Tech</title>
+    <authors>Advice Tecnologia</authors>
+    <owners>Advice Tecnologia</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Pacote para Aplicação eGuardian Advice DevOps Ambiente
+Advice.Commons.Advanced.dll
+Advice.Commons.Cryptography.dll
+Advice.Commons.dll
+Advice.Commons.Report.dll</description>
+    <copyright>Brazil 2021</copyright>
+    <language>pt-BR</language>
+  </metadata>
+</package>
