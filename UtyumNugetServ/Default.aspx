@@ -105,7 +105,7 @@
         </div>
     </div>
     <footer class="main-footer">
-      <p><img class="alignnone wp-image-215" src="https://hot.advicetech.com.br/wp-content/uploads/2019/01/logo_texto_negativo1-1.png" alt="" width="180" /></p>
+      <p><img class="alignnone wp-image-215" src="img/logo_texto.png" alt="" width="180" /></p>
 <p><span style="color: #bfbfbf;">@2021 Utyum. All rights reserved.</span></p>
     </footer>
 </body>
